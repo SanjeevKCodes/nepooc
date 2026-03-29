@@ -1,0 +1,25 @@
+# Large files
+data/images/
+checkpoints/
+*.pth
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Secrets - IMPORTANT!
+*.env
+kaggle.json
+*token*
+*secret*
