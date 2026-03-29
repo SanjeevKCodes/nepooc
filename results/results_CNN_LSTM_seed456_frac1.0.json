@@ -1,1 +1,1 @@
-{"seed": 456, "fraction": 1.0, "test_f1": 0.6066639577407558, "test_acc": 0.625}
+{"model": "CNN_LSTM", "seed": 456, "fraction": 1.0, "test_f1": 0.5933993399339934, "test_acc": 0.6022727272727273}
