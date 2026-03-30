@@ -1,1 +1,1 @@
-{"model": "ViT_TCN", "seed": 789, "fraction": 1.0, "test_f1": 0.6735559088500265}
+{"model": "ViT_TCN", "seed": 789, "fraction": 1.0, "test_f1": 0.6840005319856364}
