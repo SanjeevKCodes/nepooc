@@ -1,0 +1,1 @@
+{"model": "ViT_MuRIL", "seed": 123, "fraction": 0.25, "test_f1": 0.567354965585054}
