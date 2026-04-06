@@ -1,1 +1,0 @@
-{"model": "CNN_LSTM", "seed": 42, "fraction": 0.5, "test_f1": 0.6264548815555251, "test_acc": 0.6477272727272727}

@@ -1,1 +1,0 @@
-{"model": "ResNet_mBERT", "seed": 42, "fraction": 0.25, "test_f1": 0.6066639577407558}
