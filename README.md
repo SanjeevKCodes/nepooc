@@ -1,8 +1,3 @@
-NepOOC: Bilingual Nepali-English Out-of-Context Multimodal Misinformation Benchmark
-
-Show Image
-Show Image
-
 NepOOC-M: Bilingual Nepali-English Benchmark and Comparative Analysis of Multimodal Architectures for OOC Detection
 
 Sanjeev Khatiwada — Kathmandu, Nepal — skhatiwada558@gmail.com
